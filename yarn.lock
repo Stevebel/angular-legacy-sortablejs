@@ -1216,9 +1216,9 @@ sntp@1.x.x:
   dependencies:
     hoek "2.x.x"
 
-sortablejs@^1.6.0:
+"sortablejs@https://github.com/Stevebel/Sortable.git":
   version "1.6.0"
-  resolved "https://registry.yarnpkg.com/sortablejs/-/sortablejs-1.6.0.tgz#097cc19267218af2ca1cd455ed858f380136ab68"
+  resolved "https://github.com/Stevebel/Sortable.git#6e0c96c553e7807f2b297e7975db513e3bd3da57"
 
 source-map-support@~0.4.0:
   version "0.4.15"
